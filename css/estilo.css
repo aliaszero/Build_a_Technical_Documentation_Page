@@ -1,0 +1,35 @@
+#main-doc {
+    height: 100%;
+    width: 100%;
+}
+  
+  #navbar {
+      position: fixed ;
+      width: 300px;
+      height: 100%;
+      text-align: center;
+         
+top: 0; 
+left: 0;
+  }
+
+  .max-size{
+    max-width: 258px;
+  }
+ #jpon {
+     
+      margin-left: 320px;
+  }
+  header{
+      font-weight: bold;
+  }
+  
+  p{
+      font-size: 20px;
+  }
+@media screen and (max-height: 450px) {
+   # navbar  {padding-top: 15px;}
+   #navbar  a {font-size: 18px;}
+ }
+
+ 
